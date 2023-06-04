@@ -31,3 +31,4 @@ do
         fi
 done
 ```
+<img width="325" alt="executing calculator" src="https://github.com/7ahyeon/Shell-Script/assets/107123698/247274e8-7624-4d89-9622-cda8c9dfa393">
