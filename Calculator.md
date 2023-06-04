@@ -1,6 +1,5 @@
 # Shell-Script
 
-₩₩₩
 #!/bin/bash
 
 while :
@@ -30,4 +29,3 @@ do
         break
         fi
 done
-₩₩₩
