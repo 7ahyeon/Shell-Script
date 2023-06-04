@@ -1,6 +1,6 @@
-# Shell-Script
+# Calculator
 
-'''
+```
 #!/bin/bash
 
 while :
@@ -30,4 +30,4 @@ do
         break
         fi
 done
-'''
+```
